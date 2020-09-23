@@ -8,5 +8,6 @@ public class StringSecond {
 		s1 = s1 + s.charAt(i);
 		
 	}
+	System.out.println(s1);
 }
 }
